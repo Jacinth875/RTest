@@ -3,3 +3,4 @@ Praise the Lord
 1
 2
 feature change
+feature to test merge
