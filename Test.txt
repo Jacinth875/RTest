@@ -4,3 +4,4 @@ Praise the Lord
 2
 feature change
 feature to test merge
+git fetch test
