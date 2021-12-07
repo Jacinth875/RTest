@@ -6,3 +6,4 @@ feature change
 feature to test merge
 git fetch test
 test
+feature merge test
