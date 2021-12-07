@@ -5,4 +5,9 @@ Praise the Lord
 feature change
 feature to test merge
 git fetch test
+
 master merge testing
+
+test
+feature merge test
+
